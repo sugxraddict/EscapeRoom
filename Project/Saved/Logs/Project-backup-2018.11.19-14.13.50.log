@@ -1,0 +1,1279 @@
+﻿Log file open, 11/19/18 15:02:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Project
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.396454
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogStreaming: Display: Took  0.088s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4541578
+LogInit: Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1080 Ti
+LogInit: Compiled (64-bit): Nov  6 2018 02:04:24
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=Marrowgar21 -epicuserid=7671aa82636c440498eafdd5d5eae101 -epiclocale=en
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal Projects/EscapeRoom/Project/Saved/Config/Windows/Engine.ini]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal Projects/EscapeRoom/Project/Saved/Config/Windows/Engine.ini]
+[2018.11.19-14.02.12:159][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/EscapeRoom/Project/Saved/Config/Windows/Engine.ini]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal Projects/EscapeRoom/Project/Saved/Config/Windows/Engine.ini]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.11.19-14.02.12:159][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal Projects/EscapeRoom/Project/Saved/Config/Windows/Engine.ini]
+[2018.11.19-14.02.12:159][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal Projects/EscapeRoom/Project/Saved/Config/Windows/Engine.ini]
+[2018.11.19-14.02.12:161][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.11.19-14.02.12:161][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.11.19-14.02.12:161][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.11.19-14.02.12:161][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.11.19-14.02.12:161][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2018.11.19-14.02.12:161][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.11.19-14.02.12:161][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.11.19-14.02.12:161][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.11.19-14.02.12:161][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.11.19-14.02.12:161][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.11.19-14.02.12:161][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.11.19-14.02.12:161][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.11.19-14.02.12:161][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.11.19-14.02.12:161][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.11.19-14.02.12:161][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.11.19-14.02.12:161][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.11.19-14.02.12:161][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.11.19-14.02.12:161][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.11.19-14.02.12:161][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.11.19-14.02.12:161][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.11.19-14.02.12:161][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.11.19-14.02.12:161][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.11.19-14.02.12:161][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.11.19-14.02.12:161][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.11.19-14.02.12:161][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.11.19-14.02.12:161][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2018.11.19-14.02.12:161][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.11.19-14.02.12:161][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.11.19-14.02.12:161][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2018.11.19-14.02.12:161][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.11.19-14.02.12:161][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2018.11.19-14.02.12:161][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.11.19-14.02.12:161][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2018.11.19-14.02.12:161][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.11.19-14.02.12:162][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.11.19-14.02.12:162][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.19-14.02.12:162][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.19-14.02.12:170][  0]LogHAL: Display: Platform has ~ 16 GB [17100603392 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.19-14.02.12:170][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.11.19-14.02.12:170][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.19-14.02.12:170][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.11.19-14.02.12:170][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.11.19-14.02.12:170][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.11.19-14.02.12:170][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.11.19-14.02.12:170][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2018.11.19-14.02.12:170][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.11.19-14.02.12:170][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.11.19-14.02.12:170][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.11.19-14.02.12:170][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.11.19-14.02.12:170][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.11.19-14.02.12:170][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.11.19-14.02.12:170][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.11.19-14.02.12:170][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.11.19-14.02.12:170][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.11.19-14.02.12:170][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.11.19-14.02.12:170][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.11.19-14.02.12:170][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.11.19-14.02.12:170][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.11.19-14.02.12:170][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.11.19-14.02.12:170][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.11.19-14.02.12:170][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.11.19-14.02.12:170][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.11.19-14.02.12:170][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.11.19-14.02.12:170][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.11.19-14.02.12:170][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.11.19-14.02.12:170][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2018.11.19-14.02.12:170][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.11.19-14.02.12:170][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.11.19-14.02.12:170][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2018.11.19-14.02.12:170][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.11.19-14.02.12:170][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2018.11.19-14.02.12:170][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/EscapeRoom/Project/Saved/Config/Windows/Scalability.ini]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.11.19-14.02.12:171][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.11.19-14.02.12:171][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/EscapeRoom/Project/Saved/Config/Windows/Engine.ini]
+[2018.11.19-14.02.12:171][  0]LogInit: Computer: DESKTOP-KQTAD4O
+[2018.11.19-14.02.12:171][  0]LogInit: User: Jerry
+[2018.11.19-14.02.12:171][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.11.19-14.02.12:171][  0]LogInit: High frequency timer resolution =3.117188 MHz
+[2018.11.19-14.02.12:172][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.11.19-14.02.12:172][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.19-14.02.12:172][  0]LogMemory: Process Physical Memory: 103.77 MB used, 103.77 MB peak
+[2018.11.19-14.02.12:172][  0]LogMemory: Process Virtual Memory: 94.36 MB used, 94.36 MB peak
+[2018.11.19-14.02.12:172][  0]LogMemory: Physical Memory: 6316.53 MB used,  9991.88 MB free, 16308.41 MB total
+[2018.11.19-14.02.12:172][  0]LogMemory: Virtual Memory: 4672.88 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2018.11.19-14.02.12:187][  0]LogInit: Using OS detected language (nl-NL).
+[2018.11.19-14.02.12:187][  0]LogInit: Using OS detected locale (nl-NL).
+[2018.11.19-14.02.12:188][  0]LogTextLocalizationManager: No localization for 'nl-NL' exists, so 'en' will be used for the language.
+[2018.11.19-14.02.12:476][  0]LogStreaming: Display: Took  0.289s to InitEngineTextLocalization.
+[2018.11.19-14.02.12:476][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.19-14.02.12:502][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.19-14.02.12:502][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.19-14.02.12:657][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.19-14.02.12:657][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.19-14.02.12:708][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2018.11.19-14.02.12:708][  0]LogD3D11RHI:       11127/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.19-14.02.12:710][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.19-14.02.12:710][  0]LogD3D11RHI:       0/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.19-14.02.12:710][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.19-14.02.12:715][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.19-14.02.12:715][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.19-14.02.12:715][  0]LogWindows: EnumDisplayDevices:
+[2018.11.19-14.02.12:716][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2018.11.19-14.02.12:716][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.11.19-14.02.12:716][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.11.19-14.02.12:716][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.11.19-14.02.12:716][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.11.19-14.02.12:716][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2018.11.19-14.02.12:716][  0]LogD3D11RHI:   Driver Version: 416.34 (internal:25.21.14.1634, unified:416.34)
+[2018.11.19-14.02.12:716][  0]LogD3D11RHI:      Driver Date: 10-10-2018
+[2018.11.19-14.02.12:716][  0]LogRHI: Texture pool is 7788 MB (70% of 11127 MB)
+[2018.11.19-14.02.12:747][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.19-14.02.12:773][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.19-14.02.13:041][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.19-14.02.13:051][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.19-14.02.13:060][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.19-14.02.13:070][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.19-14.02.13:080][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.19-14.02.13:089][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.19-14.02.13:101][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.19-14.02.13:111][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.19-14.02.13:116][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.19-14.02.13:169][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-14.02.13:169][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-14.02.13:169][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-14.02.13:169][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-14.02.13:169][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-14.02.13:169][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-14.02.13:169][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-14.02.13:169][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-14.02.13:169][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-14.02.13:169][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-14.02.13:169][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-14.02.13:169][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-14.02.13:169][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-14.02.13:169][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-14.02.13:169][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-14.02.13:170][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-14.02.13:170][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-14.02.13:170][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.19-14.02.13:171][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.19-14.02.13:223][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.19-14.02.13:223][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.19-14.02.13:240][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.19-14.02.13:240][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.19-14.02.13:248][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.19-14.02.13:257][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.19-14.02.13:266][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.19-14.02.13:275][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.19-14.02.13:306][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.19-14.02.13:306][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.19-14.02.13:306][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.19-14.02.13:352][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (D:/Unreal Projects/EscapeRoom/Project/Intermediate/Shaders/WorkingDirectory/17544/).
+[2018.11.19-14.02.13:352][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jerry/AppData/Local/Temp/UnrealShaderWorkingDir/2608A24F4724C04D7DDD62A7EA352662/'.
+[2018.11.19-14.02.13:365][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2018.11.19-14.02.13:759][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.19-14.02.13:805][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/Jerry/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.11.19-14.02.13:805][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jerry/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.11.19-14.02.13:805][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Unreal Projects/EscapeRoom/Project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.19-14.02.13:805][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.19-14.02.13:805][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Unreal Projects/EscapeRoom/Project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.19-14.02.13:805][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.19-14.02.13:815][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.19-14.02.13:817][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2018.11.19-14.02.13:829][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jerry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.19-14.02.13:829][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.19-14.02.13:829][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.19-14.02.13:847][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.19-14.02.13:848][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.19-14.02.13:848][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.19-14.02.13:919][  0]LogAssetRegistry: FAssetRegistry took 0.0305 seconds to start up
+[2018.11.19-14.02.14:159][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.19-14.02.14:215][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.19-14.02.14:218][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.19-14.02.14:218][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.19-14.02.14:218][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.19-14.02.14:218][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.19-14.02.14:291][  0]LogNetVersion: Project 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1228489884)
+[2018.11.19-14.02.14:455][  0]LogMaterial: Display: Missing cached shader map for material CineMat, compiling. 
+[2018.11.19-14.02.14:510][  0]LogMaterial: Display: Missing cached shader map for material M_SimpleOpaque, compiling. 
+[2018.11.19-14.02.14:526][  0]LogMaterial: Display: Missing cached shader map for material M_SimpleTranslucent, compiling. 
+[2018.11.19-14.02.14:622][  0]LogMaterial: Display: Missing cached shader map for material SkySphereMaterial, compiling. 
+[2018.11.19-14.02.14:632][  0]LogMaterial: Display: Missing cached shader map for material FloorPlaneMaterial, compiling. 
+[2018.11.19-14.02.14:693][  0]LogMaterial: Display: Missing cached shader map for material LandscapeGizmo_Mat, compiling. 
+[2018.11.19-14.02.14:714][  0]LogMaterial: Display: Missing cached shader map for material LandscapeGizmoHeight_Mat, compiling. 
+[2018.11.19-14.02.14:750][  0]LogMaterial: Display: Missing cached shader map for material SplineEditorMeshMat, compiling. 
+[2018.11.19-14.02.14:838][  0]LogPackageLocalizationCache: Processed 14 localized package path(s) for 1 prioritized culture(s) in 0.079311 seconds
+[2018.11.19-14.02.14:843][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.11.19-14.02.14:843][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2018.11.19-14.02.14:843][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.19-14.02.15:416][  0]LogMaterial: Display: Missing cached shader map for material BaseColor, compiling. 
+[2018.11.19-14.02.15:424][  0]LogMaterial: Display: Missing cached shader map for material CustomDepth, compiling. 
+[2018.11.19-14.02.15:443][  0]LogMaterial: Display: Missing cached shader map for material CustomStencil, compiling. 
+[2018.11.19-14.02.15:450][  0]LogMaterial: Display: Missing cached shader map for material FinalImage, compiling. 
+[2018.11.19-14.02.15:456][  0]LogMaterial: Display: Missing cached shader map for material LightingModel, compiling. 
+[2018.11.19-14.02.15:463][  0]LogMaterial: Display: Missing cached shader map for material MaterialAO, compiling. 
+[2018.11.19-14.02.15:470][  0]LogMaterial: Display: Missing cached shader map for material Metallic, compiling. 
+[2018.11.19-14.02.15:477][  0]LogMaterial: Display: Missing cached shader map for material Opacity, compiling. 
+[2018.11.19-14.02.15:483][  0]LogMaterial: Display: Missing cached shader map for material Roughness, compiling. 
+[2018.11.19-14.02.15:491][  0]LogMaterial: Display: Missing cached shader map for material SceneColor, compiling. 
+[2018.11.19-14.02.15:496][  0]LogMaterial: Display: Missing cached shader map for material SceneDepth, compiling. 
+[2018.11.19-14.02.15:503][  0]LogMaterial: Display: Missing cached shader map for material SeparateTranslucencyRGB, compiling. 
+[2018.11.19-14.02.15:509][  0]LogMaterial: Display: Missing cached shader map for material SeparateTranslucencyA, compiling. 
+[2018.11.19-14.02.15:516][  0]LogMaterial: Display: Missing cached shader map for material Specular, compiling. 
+[2018.11.19-14.02.15:523][  0]LogMaterial: Display: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2018.11.19-14.02.15:530][  0]LogMaterial: Display: Missing cached shader map for material WorldNormal, compiling. 
+[2018.11.19-14.02.15:537][  0]LogMaterial: Display: Missing cached shader map for material AmbientOcclusion, compiling. 
+[2018.11.19-14.02.15:548][  0]LogMaterial: Display: Missing cached shader map for material CustomDepthWorldUnits, compiling. 
+[2018.11.19-14.02.15:555][  0]LogMaterial: Display: Missing cached shader map for material SceneDepthWorldUnits, compiling. 
+[2018.11.19-14.02.15:561][  0]LogMaterial: Display: Missing cached shader map for material PreTonemapHDRColor, compiling. 
+[2018.11.19-14.02.15:569][  0]LogMaterial: Display: Missing cached shader map for material PostTonemapHDRColor, compiling. 
+[2018.11.19-14.02.15:598][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.19-14.02.15:616][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.19-14.02.16:112][  0]LogMaterial: Display: Missing cached shader map for material DefaultMaterial, compiling. 
+[2018.11.19-14.02.16:190][  0]SourceControl: Source control is disabled
+[2018.11.19-14.02.16:190][  0]SourceControl: Source control is disabled
+[2018.11.19-14.02.16:191][  0]SourceControl: Source control is disabled
+[2018.11.19-14.02.16:191][  0]SourceControl: Source control is disabled
+[2018.11.19-14.02.16:345][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.19-14.02.16:402][  0]LogOcInput: OculusInput pre-init called
+[2018.11.19-14.02.16:430][  0]LogMaterial: Display: Missing cached shader map for material RevitMaster, compiling. 
+[2018.11.19-14.02.16:446][  0]LogMaterial: Display: Missing cached shader map for material SketchUpMaster, compiling. 
+[2018.11.19-14.02.16:464][  0]LogMaterial: Display: Missing cached shader map for material CE_OpaqueMaster, compiling. 
+[2018.11.19-14.02.16:479][  0]LogMaterial: Display: Missing cached shader map for material CE_OpacityMaster, compiling. 
+[2018.11.19-14.02.16:500][  0]LogMaterial: Display: Missing cached shader map for material CE_OpacitySimpleMaster, compiling. 
+[2018.11.19-14.02.17:007][  0]LogMaterial: Display: Missing cached shader map for material Datasmith_Color, compiling. 
+[2018.11.19-14.02.17:025][  0]LogMaterial: Display: Missing cached shader map for material Datasmith_Material, compiling. 
+[2018.11.19-14.02.17:525][  0]LogMaterial: Display: Missing cached shader map for material HighResScreenshot, compiling. 
+[2018.11.19-14.02.17:534][  0]LogMaterial: Display: Missing cached shader map for material HighResScreenshotMask, compiling. 
+[2018.11.19-14.02.17:544][  0]LogMaterial: Display: Missing cached shader map for material HighResScreenshotCaptureRegion, compiling. 
+[2018.11.19-14.02.17:569][  0]LogEngine: Initializing Engine...
+[2018.11.19-14.02.17:570][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.19-14.02.17:571][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.19-14.02.17:571][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.19-14.02.17:571][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.19-14.02.17:571][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.19-14.02.17:574][  0]LogMaterial: Display: Missing cached shader map for material WireframeMaterial, compiling. Is special engine material.
+[2018.11.19-14.02.17:649][  0]LogMaterial: Display: Missing cached shader map for material LevelColorationLitMaterial, compiling. Is special engine material.
+[2018.11.19-14.02.17:862][  0]LogMaterial: Display: Missing cached shader map for material LevelColorationUnlitMaterial, compiling. Is special engine material.
+[2018.11.19-14.02.17:925][  0]LogMaterial: Display: Missing cached shader map for material MAT_LevelColorationLitLightmapUV, compiling. Is special engine material.
+[2018.11.19-14.02.18:143][  0]LogMaterial: Display: Missing cached shader map for material ShadedLevelColorationLitMaterial, compiling. Is special engine material.
+[2018.11.19-14.02.18:347][  0]LogMaterial: Display: Missing cached shader map for material ShadedLevelColorationUnlitMateri, compiling. Is special engine material.
+[2018.11.19-14.02.18:401][  0]LogMaterial: Display: Missing cached shader map for material VertexColorMaterial, compiling. 
+[2018.11.19-14.02.18:446][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_ColorOnly, compiling. 
+[2018.11.19-14.02.18:460][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_AlphaAsColor, compiling. 
+[2018.11.19-14.02.18:471][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_RedOnly, compiling. 
+[2018.11.19-14.02.18:481][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_GreenOnly, compiling. 
+[2018.11.19-14.02.18:491][  0]LogMaterial: Display: Missing cached shader map for material VertexColorViewMode_BlueOnly, compiling. 
+[2018.11.19-14.02.18:501][  0]LogMaterial: Display: Missing cached shader map for material RemoveSurfaceMaterial, compiling. 
+[2018.11.19-14.02.18:507][  0]LogMaterial: Display: Missing cached shader map for material DebugMeshMaterial, compiling. 
+[2018.11.19-14.02.18:517][  0]LogMaterial: Display: Missing cached shader map for material M_InvalidLightmapSettings, compiling. 
+[2018.11.19-14.02.18:536][  0]LogMaterial: Display: Missing cached shader map for material GizmoMaterial, compiling. 
+[2018.11.19-14.02.18:547][  0]LogMaterial: Display: Missing cached shader map for material PhAT_JointLimitMaterial, compiling. 
+[2018.11.19-14.02.18:558][  0]LogMaterial: Display: Missing cached shader map for material GeomMaterial, compiling. 
+[2018.11.19-14.02.18:566][  0]LogMaterial: Display: Missing cached shader map for material EditorBrushMaterial, compiling. 
+[2018.11.19-14.02.18:575][  0]LogMaterial: Display: Missing cached shader map for material BoneWeightMaterial, compiling. 
+[2018.11.19-14.02.18:616][  0]LogMaterial: Display: Missing cached shader map for material ClothMaterial, compiling. 
+[2018.11.19-14.02.18:626][  0]LogMaterial: Display: Missing cached shader map for material ClothMaterial_WF, compiling. 
+[2018.11.19-14.02.18:636][  0]LogMaterial: Display: Missing cached shader map for material DebugEditorMaterial, compiling. 
+[2018.11.19-14.02.18:645][  0]LogMaterial: Display: Missing cached shader map for material PreviewShadowIndicatorMaterial, compiling. 
+[2018.11.19-14.02.18:702][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.19-14.02.18:716][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.19-14.02.18:734][  0]LogInit: XAudio2 using 'Luidsprekers (2- Strix DSP)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.11.19-14.02.18:745][  0]LogInit: FAudioDevice initialized.
+[2018.11.19-14.02.18:745][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.19-14.02.19:162][  0]LogDerivedDataCache: Saved boot cache 0.42s 77MB C:/Users/Jerry/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.11.19-14.02.19:177][  0]LogInit: Texture streaming: Enabled
+[2018.11.19-14.02.19:191][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.19-14.02.19:204][  0]LogInit: Transaction tracking system initialized
+[2018.11.19-14.02.19:226][  0]BlueprintLog: New page: Editor Load
+[2018.11.19-14.02.19:292][  0]LocalizationService: Localization service is disabled
+[2018.11.19-14.02.19:522][  0]LogMaterial: Display: Missing cached shader map for material Cross_Mat, compiling. 
+[2018.11.19-14.02.19:532][  0]LogMaterial: Display: Missing cached shader map for material PhAT_BoneSelectedMaterial, compiling. 
+[2018.11.19-14.02.19:540][  0]LogMaterial: Display: Missing cached shader map for material PhAT_ElemSelectedMaterial, compiling. 
+[2018.11.19-14.02.19:550][  0]LogMaterial: Display: Missing cached shader map for material PhAT_NoCollisionMaterial, compiling. 
+[2018.11.19-14.02.19:558][  0]LogMaterial: Display: Missing cached shader map for material PhAT_UnselectedMaterial, compiling. 
+[2018.11.19-14.02.19:568][  0]LogMaterial: Display: Missing cached shader map for material Tick_Mat, compiling. 
+[2018.11.19-14.02.19:578][  0]LogMaterial: Display: Missing cached shader map for material WidgetGridVertexColorMaterial_Ma, compiling. 
+[2018.11.19-14.02.19:587][  0]LogMaterial: Display: Missing cached shader map for material WidgetMaterial, compiling. 
+[2018.11.19-14.02.19:594][  0]LogMaterial: Display: Missing cached shader map for material WidgetMaterial_Current, compiling. 
+[2018.11.19-14.02.19:603][  0]LogMaterial: Display: Missing cached shader map for material WidgetMaterial_X, compiling. 
+[2018.11.19-14.02.19:610][  0]LogMaterial: Display: Missing cached shader map for material WidgetMaterial_Y, compiling. 
+[2018.11.19-14.02.19:618][  0]LogMaterial: Display: Missing cached shader map for material WidgetMaterial_Z, compiling. 
+[2018.11.19-14.02.19:625][  0]LogMaterial: Display: Missing cached shader map for material WidgetVertexColorMaterial, compiling. 
+[2018.11.19-14.02.19:654][  0]LogMaterial: Display: Missing cached shader map for material LevelGridMaterial, compiling. 
+[2018.11.19-14.02.19:681][  0]LogMaterial: Display: Missing cached shader map for material BlinkingCaret, compiling. 
+[2018.11.19-14.02.19:702][  0]LogMaterial: Display: Missing cached shader map for material M_StreamingPause, compiling. 
+[2018.11.19-14.02.19:740][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/EscapeRoom/Project/Content/' took 0.01s
+[2018.11.19-14.02.19:740][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.19-14.02.19:740][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.19-14.02.19:740][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.19-14.02.19:740][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.19-14.02.19:740][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.19-14.02.19:740][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.19-14.02.19:740][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.19-14.02.19:821][  0]LogMaterial: Display: Missing cached shader map for material VREDMaster, compiling. 
+[2018.11.19-14.02.19:842][  0]LogMaterial: Display: Missing cached shader map for material VREDMasterTransparent, compiling. 
+[2018.11.19-14.02.20:301][  0]LogMaterial: Display: Missing cached shader map for material DeltaGenMaster, compiling. 
+[2018.11.19-14.02.20:317][  0]LogMaterial: Display: Missing cached shader map for material DeltaGenMasterTransparent, compiling. 
+[2018.11.19-14.02.20:780][  0]SourceControl: Source control is disabled
+[2018.11.19-14.02.20:781][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.21/FeaturePacks/StarterContent.upack)
+[2018.11.19-14.02.20:785][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.11.19-14.02.20:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.11.19-14.02.20:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.11.19-14.02.20:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.11.19-14.02.20:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.11.19-14.02.20:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.11.19-14.02.20:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.11.19-14.02.20:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.11.19-14.02.20:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.11.19-14.02.20:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.11.19-14.02.20:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.11.19-14.02.20:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.11.19-14.02.20:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.11.19-14.02.20:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.11.19-14.02.20:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.11.19-14.02.20:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.11.19-14.02.20:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.11.19-14.02.20:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.11.19-14.02.20:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Audio/Fire01.uasset"
+[2018.11.19-14.02.20:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.11.19-14.02.20:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.11.19-14.02.20:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.11.19-14.02.20:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Audio/Light01.uasset"
+[2018.11.19-14.02.20:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.11.19-14.02.20:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Audio/Light02.uasset"
+[2018.11.19-14.02.20:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.11.19-14.02.20:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.11.19-14.02.20:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.11.19-14.02.20:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.11.19-14.02.20:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.11.19-14.02.20:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.11.19-14.02.20:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.11.19-14.02.20:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.11.19-14.02.20:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.11.19-14.02.20:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Audio/Steam01.uasset"
+[2018.11.19-14.02.20:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.11.19-14.02.20:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.11.19-14.02.20:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.11.19-14.02.20:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.11.19-14.02.20:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.11.19-14.02.20:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.11.19-14.02.20:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.11.19-14.02.20:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.11.19-14.02.20:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.11.19-14.02.20:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.11.19-14.02.20:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.11.19-14.02.20:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.11.19-14.02.20:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.11.19-14.02.21:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.11.19-14.02.21:023][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.11.19-14.02.21:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.11.19-14.02.21:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.11.19-14.02.21:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.11.19-14.02.21:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.11.19-14.02.21:091][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.11.19-14.02.21:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.11.19-14.02.21:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.11.19-14.02.21:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Maps/StarterMap.umap"
+[2018.11.19-14.02.21:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.11.19-14.02.21:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.11.19-14.02.21:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.11.19-14.02.21:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.11.19-14.02.21:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.11.19-14.02.21:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.11.19-14.02.21:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.11.19-14.02.21:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.11.19-14.02.21:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.11.19-14.02.21:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.11.19-14.02.21:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.11.19-14.02.21:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.11.19-14.02.21:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.11.19-14.02.21:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.11.19-14.02.21:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.11.19-14.02.21:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.11.19-14.02.21:185][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.11.19-14.02.21:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.11.19-14.02.21:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.11.19-14.02.21:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.11.19-14.02.21:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.11.19-14.02.21:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.11.19-14.02.21:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.11.19-14.02.21:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.11.19-14.02.21:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.11.19-14.02.21:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.11.19-14.02.21:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.11.19-14.02.21:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.11.19-14.02.21:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.11.19-14.02.21:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.11.19-14.02.21:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.11.19-14.02.21:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.11.19-14.02.21:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.11.19-14.02.21:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.11.19-14.02.21:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.11.19-14.02.21:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.11.19-14.02.21:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.11.19-14.02.21:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.11.19-14.02.21:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.11.19-14.02.21:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.11.19-14.02.21:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.11.19-14.02.21:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.11.19-14.02.21:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.11.19-14.02.21:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.11.19-14.02.21:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.11.19-14.02.21:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.11.19-14.02.21:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.11.19-14.02.21:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.11.19-14.02.21:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.11.19-14.02.21:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.11.19-14.02.21:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.11.19-14.02.21:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.11.19-14.02.21:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.11.19-14.02.21:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.11.19-14.02.21:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.11.19-14.02.21:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.11.19-14.02.21:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.11.19-14.02.21:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.11.19-14.02.21:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.11.19-14.02.21:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.11.19-14.02.21:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.11.19-14.02.21:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.11.19-14.02.21:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.11.19-14.02.21:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.11.19-14.02.21:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.11.19-14.02.21:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Props/SM_Door.uasset"
+[2018.11.19-14.02.21:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.11.19-14.02.21:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.11.19-14.02.21:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.11.19-14.02.21:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.11.19-14.02.21:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.11.19-14.02.21:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.11.19-14.02.21:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.11.19-14.02.21:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.11.19-14.02.21:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.11.19-14.02.21:441][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.11.19-14.02.21:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.11.19-14.02.21:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.11.19-14.02.21:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.11.19-14.02.21:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.11.19-14.02.21:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.11.19-14.02.21:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.11.19-14.02.21:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.11.19-14.02.21:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.11.19-14.02.21:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.11.19-14.02.21:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.11.19-14.02.21:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.11.19-14.02.21:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.11.19-14.02.21:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.11.19-14.02.21:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.11.19-14.02.21:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.11.19-14.02.21:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.11.19-14.02.21:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.11.19-14.02.21:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.11.19-14.02.21:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.11.19-14.02.21:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.11.19-14.02.21:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.11.19-14.02.21:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.11.19-14.02.21:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.11.19-14.02.21:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.11.19-14.02.21:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.11.19-14.02.21:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.11.19-14.02.21:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.11.19-14.02.21:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.11.19-14.02.21:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.11.19-14.02.21:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.11.19-14.02.21:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.11.19-14.02.21:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.11.19-14.02.21:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.11.19-14.02.21:600][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.11.19-14.02.21:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.11.19-14.02.21:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.11.19-14.02.21:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.11.19-14.02.21:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.11.19-14.02.21:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.11.19-14.02.21:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.11.19-14.02.21:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.11.19-14.02.21:660][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.11.19-14.02.21:670][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.11.19-14.02.21:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.11.19-14.02.21:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.11.19-14.02.21:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.11.19-14.02.21:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.11.19-14.02.21:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.11.19-14.02.21:705][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.11.19-14.02.21:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.11.19-14.02.21:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.11.19-14.02.21:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.11.19-14.02.21:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.11.19-14.02.21:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.11.19-14.02.21:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.11.19-14.02.21:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.11.19-14.02.21:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.11.19-14.02.21:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.11.19-14.02.21:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.11.19-14.02.21:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.11.19-14.02.21:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.11.19-14.02.21:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.11.19-14.02.21:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.11.19-14.02.21:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.11.19-14.02.21:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.11.19-14.02.21:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.11.19-14.02.21:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.11.19-14.02.21:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.11.19-14.02.21:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.11.19-14.02.21:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.11.19-14.02.21:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.11.19-14.02.21:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.11.19-14.02.21:905][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.11.19-14.02.21:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.11.19-14.02.21:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.11.19-14.02.21:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.11.19-14.02.21:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.11.19-14.02.21:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.11.19-14.02.21:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.11.19-14.02.21:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.11.19-14.02.21:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.11.19-14.02.21:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.11.19-14.02.21:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.11.19-14.02.21:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.11.19-14.02.21:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.11.19-14.02.21:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.11.19-14.02.21:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.11.19-14.02.21:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.11.19-14.02.21:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.11.19-14.02.22:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.11.19-14.02.22:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.11.19-14.02.22:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.11.19-14.02.22:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.11.19-14.02.22:036][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.11.19-14.02.22:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.11.19-14.02.22:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.11.19-14.02.22:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.11.19-14.02.22:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.11.19-14.02.22:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.11.19-14.02.22:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.11.19-14.02.22:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.11.19-14.02.22:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.11.19-14.02.22:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.11.19-14.02.22:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.11.19-14.02.22:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.11.19-14.02.22:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.11.19-14.02.22:142][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.11.19-14.02.22:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.11.19-14.02.22:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.11.19-14.02.22:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.11.19-14.02.22:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.11.19-14.02.22:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.11.19-14.02.22:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.11.19-14.02.22:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.11.19-14.02.22:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.11.19-14.02.22:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.11.19-14.02.22:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.11.19-14.02.22:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.11.19-14.02.22:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.11.19-14.02.22:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.11.19-14.02.22:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.11.19-14.02.22:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.11.19-14.02.22:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.11.19-14.02.22:237][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.11.19-14.02.22:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.11.19-14.02.22:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.11.19-14.02.22:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.11.19-14.02.22:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.11.19-14.02.22:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.11.19-14.02.22:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.11.19-14.02.22:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.11.19-14.02.22:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.11.19-14.02.22:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.11.19-14.02.22:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.11.19-14.02.22:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.11.19-14.02.22:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.11.19-14.02.22:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.11.19-14.02.22:332][  0]LogMaterial: Display: Missing cached shader map for material M_Basic_Floor, compiling. 
+[2018.11.19-14.02.22:496][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 26 NumSamples 1 (Frame:1).
+[2018.11.19-14.02.22:548][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2018.11.19-14.02.22:615][  0]LogSavePackage: Moving 'D:/Unreal Projects/EscapeRoom/Project/Saved/Floor_400x400D7D1308841838D750638F3AACD345F96.tmp' to 'D:/Unreal Projects/EscapeRoom/Project/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.11.19-14.02.22:617][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.11.19-14.02.22:618][  0]Cmd: MAP LOAD FILE="D:/Unreal Projects/EscapeRoom/Project/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.19-14.02.22:618][  0]LightingResults: New page: Lighting Build
+[2018.11.19-14.02.22:621][  0]MapCheck: New page: Map Check
+[2018.11.19-14.02.22:621][  0]LightingResults: New page: Lighting Build
+[2018.11.19-14.02.22:721][  0]LogAIModule: Creating AISystem for world StartupMap
+[2018.11.19-14.02.22:726][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.19-14.02.22:749][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.19-14.02.22:749][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,082ms to complete.
+[2018.11.19-14.02.22:749][  0]LogFileHelpers: Loading map 'StartupMap' took 0.132
+[2018.11.19-14.02.22:830][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-14.02.22:835][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-14.02.22:840][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-14.02.22:844][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.19-14.02.22:850][  0]LogCollectionManager: Loaded 0 collections in 0.001568 seconds
+[2018.11.19-14.02.22:889][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/EscapeRoom/Project/Saved/Collections/' took 0.01s
+[2018.11.19-14.02.22:889][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/EscapeRoom/Project/Content/Developers/Jerry/Collections/' took 0.01s
+[2018.11.19-14.02.22:889][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/EscapeRoom/Project/Content/Collections/' took 0.01s
+[2018.11.19-14.02.22:889][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.19-14.02.22:897][  0]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 2709 classes and 653 folders.
+[2018.11.19-14.02.22:902][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.19-14.02.22:904][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-14.02.22:904][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-14.02.22:905][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-14.02.22:905][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-14.02.22:906][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-14.02.22:906][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-14.02.22:907][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-14.02.22:907][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-14.02.22:908][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-14.02.22:909][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-14.02.22:909][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-14.02.22:910][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-14.02.22:910][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-14.02.22:911][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-14.02.22:912][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-14.02.22:912][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-14.02.22:913][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-14.02.22:913][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-14.02.22:914][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-14.02.22:914][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-14.02.22:915][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-14.02.22:915][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-14.02.22:916][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-14.02.22:916][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-14.02.22:917][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-14.02.22:917][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-14.02.22:918][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-14.02.22:918][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.19-14.02.22:950][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.19-14.02.22:954][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.11.19-14.02.22:966][  0]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.19-14.02.22:967][  0]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.19-14.02.22:971][  0]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.19-14.02.23:012][  0]LogMaterial: Display: Missing cached shader map for material LevelGridMaterial2, compiling. 
+[2018.11.19-14.02.23:018][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 26 NumSamples 1 (Frame:1).
+[2018.11.19-14.02.23:058][  0]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.19-14.02.23:167][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.19-14.02.23:167][  0]LogLoad: (Engine Initialization) Total time: 12.71 seconds
+[2018.11.19-14.02.23:167][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.19-14.02.23:178][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.19-14.02.23:202][  0]LogAssetRegistry: Asset discovery search completed in 9.3059 seconds
+[2018.11.19-14.02.23:204][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.11.19-14.02.23:204][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000058 seconds (updated 0 objects)
+[2018.11.19-14.02.23:274][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.19-14.02.25:830][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.19-14.02.25:981][267]LogSlate: Window 'Project - Unreal Editor' being destroyed
+[2018.11.19-14.02.25:982][267]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.19-14.02.25:984][267]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.19-14.02.26:118][268]Cmd: QUIT_EDITOR
+[2018.11.19-14.02.26:134][268]LogExit: Preparing to exit.
+[2018.11.19-14.02.26:705][268]LogExit: Editor shut down
+[2018.11.19-14.02.26:705][268]LogExit: Transaction tracking system shut down
+[2018.11.19-14.02.26:894][268]LogExit: Object subsystem successfully closed.
+[2018.11.19-14.02.26:983][268]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.11.19-14.02.26:984][268]LogD3D11RHI: Shutdown
+[2018.11.19-14.02.26:984][268]LogD3D11RHI: CleanupD3DDevice
+[2018.11.19-14.02.27:002][268]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.11.19-14.02.27:022][268]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2018.11.19-14.02.27:022][268]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2018.11.19-14.02.27:022][268]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2018.11.19-14.02.27:022][268]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2018.11.19-14.02.27:022][268]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2018.11.19-14.02.27:022][268]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2018.11.19-14.02.27:022][268]LogModuleManager: Shutting down and abandoning module StatsViewer (632)
+[2018.11.19-14.02.27:022][268]LogModuleManager: Shutting down and abandoning module FoliageEdit (630)
+[2018.11.19-14.02.27:022][268]LogModuleManager: Shutting down and abandoning module LandscapeEditor (628)
+[2018.11.19-14.02.27:022][268]LogModuleManager: Shutting down and abandoning module MeshPaintMode (626)
+[2018.11.19-14.02.27:022][268]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (624)
+[2018.11.19-14.02.27:022][268]LogModuleManager: Shutting down and abandoning module ActorPickerMode (622)
+[2018.11.19-14.02.27:022][268]LogModuleManager: Shutting down and abandoning module GeometryMode (620)
+[2018.11.19-14.02.27:022][268]LogModuleManager: Shutting down and abandoning module TextureAlignMode (618)
+[2018.11.19-14.02.27:022][268]LogModuleManager: Shutting down and abandoning module BspMode (616)
+[2018.11.19-14.02.27:022][268]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (614)
+[2018.11.19-14.02.27:022][268]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (612)
+[2018.11.19-14.02.27:022][268]LogModuleManager: Shutting down and abandoning module AutomationWorker (610)
+[2018.11.19-14.02.27:022][268]LogModuleManager: Shutting down and abandoning module DatasmithFBXImporter (608)
+[2018.11.19-14.02.27:022][268]LogModuleManager: Shutting down and abandoning module DatasmithDeltaGenImporter (606)
+[2018.11.19-14.02.27:022][268]LogModuleManager: Shutting down and abandoning module DatasmithVREDImporter (604)
+[2018.11.19-14.02.27:022][268]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (602)
+[2018.11.19-14.02.27:022][268]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (600)
+[2018.11.19-14.02.27:022][268]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (598)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module PlacementMode (597)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module MaterialEditor (596)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (560)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (558)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module CharacterAI (556)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module SmartSnapping (554)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module SessionServices (552)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module ViewportSnapping (550)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module ViewportInteraction (548)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module ClothPainter (546)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (545)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module LogVisualizer (542)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module IntroTutorials (540)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (539)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (536)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (534)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (532)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (530)
+[2018.11.19-14.02.27:023][268]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (529)
+[2018.11.19-14.02.27:477][268]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (526)
+[2018.11.19-14.02.27:477][268]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (524)
+[2018.11.19-14.02.27:477][268]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (522)
+[2018.11.19-14.02.27:477][268]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (520)
+[2018.11.19-14.02.27:477][268]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (518)
+[2018.11.19-14.02.27:477][268]LogModuleManager: Shutting down and abandoning module InputBindingEditor (516)
+[2018.11.19-14.02.27:477][268]LogModuleManager: Shutting down and abandoning module MergeActors (514)
+[2018.11.19-14.02.27:477][268]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (512)
+[2018.11.19-14.02.27:477][268]LogModuleManager: Shutting down and abandoning module LocalizationService (511)
+[2018.11.19-14.02.27:477][268]LogModuleManager: Shutting down and abandoning module HardwareTargeting (508)
+[2018.11.19-14.02.27:477][268]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (506)
+[2018.11.19-14.02.27:477][268]LogModuleManager: Shutting down and abandoning module UndoHistory (504)
+[2018.11.19-14.02.27:477][268]LogModuleManager: Shutting down and abandoning module XmlParser (502)
+[2018.11.19-14.02.27:477][268]LogModuleManager: Shutting down and abandoning module Blutility (500)
+[2018.11.19-14.02.27:477][268]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (498)
+[2018.11.19-14.02.27:477][268]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (497)
+[2018.11.19-14.02.27:478][268]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (494)
+[2018.11.19-14.02.27:478][268]LogModuleManager: Shutting down and abandoning module SettingsEditor (492)
+[2018.11.19-14.02.27:478][268]LogModuleManager: Shutting down and abandoning module ProjectLauncher (490)
+[2018.11.19-14.02.27:478][268]LogModuleManager: Shutting down and abandoning module SessionFrontend (488)
+[2018.11.19-14.02.27:478][268]LogModuleManager: Shutting down and abandoning module ProfilerClient (486)
+[2018.11.19-14.02.27:478][268]LogModuleManager: Shutting down and abandoning module DeviceManager (484)
+[2018.11.19-14.02.27:478][268]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (483)
+[2018.11.19-14.02.27:533][268]LogModuleManager: Shutting down and abandoning module AutomationController (480)
+[2018.11.19-14.02.27:533][268]LogModuleManager: Shutting down and abandoning module AutomationWindow (478)
+[2018.11.19-14.02.27:533][268]LogModuleManager: Shutting down and abandoning module Layers (476)
+[2018.11.19-14.02.27:533][268]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (474)
+[2018.11.19-14.02.27:533][268]LogModuleManager: Shutting down and abandoning module DetailCustomizations (472)
+[2018.11.19-14.02.27:533][268]LogModuleManager: Shutting down and abandoning module PackagesDialog (470)
+[2018.11.19-14.02.27:533][268]LogModuleManager: Shutting down and abandoning module Persona (468)
+[2018.11.19-14.02.27:533][268]LogModuleManager: Shutting down and abandoning module AnimGraph (467)
+[2018.11.19-14.02.27:533][268]LogModuleManager: Shutting down and abandoning module Kismet (464)
+[2018.11.19-14.02.27:533][268]LogModuleManager: Shutting down and abandoning module GraphEditor (462)
+[2018.11.19-14.02.27:533][268]LogModuleManager: Shutting down and abandoning module ClassViewer (460)
+[2018.11.19-14.02.27:533][268]LogModuleManager: Shutting down and abandoning module Toolbox (458)
+[2018.11.19-14.02.27:533][268]LogModuleManager: Shutting down and abandoning module ModuleUI (456)
+[2018.11.19-14.02.27:533][268]LogModuleManager: Shutting down and abandoning module MovieSceneTools (454)
+[2018.11.19-14.02.27:533][268]LogModuleManager: Shutting down and abandoning module OutputLog (452)
+[2018.11.19-14.02.27:533][268]LogModuleManager: Shutting down and abandoning module GammaUI (450)
+[2018.11.19-14.02.27:533][268]LogModuleManager: Shutting down and abandoning module Documentation (448)
+[2018.11.19-14.02.27:533][268]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (446)
+[2018.11.19-14.02.27:533][268]LogModuleManager: Shutting down and abandoning module MovieScene (444)
+[2018.11.19-14.02.27:533][268]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (442)
+[2018.11.19-14.02.27:533][268]LogModuleManager: Shutting down and abandoning module LauncherPlatform (440)
+[2018.11.19-14.02.27:533][268]LogModuleManager: Shutting down and abandoning module AnalyticsET (438)
+[2018.11.19-14.02.27:533][268]LogModuleManager: Shutting down and abandoning module PortalServices (436)
+[2018.11.19-14.02.27:533][268]LogModuleManager: Shutting down and abandoning module PortalRpc (434)
+[2018.11.19-14.02.27:533][268]LogModuleManager: Shutting down and abandoning module MessagingRpc (432)
+[2018.11.19-14.02.27:533][268]LogModuleManager: Shutting down and abandoning module AIModule (430)
+[2018.11.19-14.02.27:533][268]LogModuleManager: Shutting down and abandoning module GameplayDebugger (429)
+[2018.11.19-14.02.27:533][268]LogModuleManager: Shutting down and abandoning module AITestSuite (427)
+[2018.11.19-14.02.27:533][268]LogModuleManager: Shutting down and abandoning module NavigationSystem (425)
+[2018.11.19-14.02.27:533][268]LogModuleManager: Shutting down and abandoning module DesktopPlatform (422)
+[2018.11.19-14.02.27:533][268]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (420)
+[2018.11.19-14.02.27:534][268]LogModuleManager: Shutting down and abandoning module ProfilerService (418)
+[2018.11.19-14.02.27:710][268]LogModuleManager: Shutting down and abandoning module TaskGraph (416)
+[2018.11.19-14.02.27:710][268]LogModuleManager: Shutting down and abandoning module DatasmithCADImporter (414)
+[2018.11.19-14.02.27:711][268]LogModuleManager: Shutting down and abandoning module VariantManager (412)
+[2018.11.19-14.02.27:711][268]LogModuleManager: Shutting down and abandoning module StaticMeshEditorExtension (410)
+[2018.11.19-14.02.27:711][268]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (409)
+[2018.11.19-14.02.27:711][268]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (408)
+[2018.11.19-14.02.27:711][268]LogModuleManager: Shutting down and abandoning module MeshProcessingLibrary (405)
+[2018.11.19-14.02.27:711][268]LogModuleManager: Shutting down and abandoning module MDLImporter (402)
+[2018.11.19-14.02.27:711][268]LogModuleManager: Shutting down and abandoning module DatasmithImporter (400)
+[2018.11.19-14.02.27:711][268]LogModuleManager: Shutting down and abandoning module SteamVRController (398)
+[2018.11.19-14.02.27:711][268]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (396)
+[2018.11.19-14.02.27:711][268]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
+[2018.11.19-14.02.27:711][268]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2018.11.19-14.02.27:711][268]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2018.11.19-14.02.27:711][268]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
+[2018.11.19-14.02.27:711][268]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2018.11.19-14.02.27:711][268]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2018.11.19-14.02.27:711][268]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
+[2018.11.19-14.02.27:711][268]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2018.11.19-14.02.27:711][268]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2018.11.19-14.02.27:711][268]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
+[2018.11.19-14.02.27:711][268]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
+[2018.11.19-14.02.27:711][268]LogModuleManager: Shutting down and abandoning module MediaCompositing (372)
+[2018.11.19-14.02.27:711][268]LogModuleManager: Shutting down and abandoning module LinearTimecode (370)
+[2018.11.19-14.02.27:711][268]LogModuleManager: Shutting down and abandoning module ImgMedia (368)
+[2018.11.19-14.02.27:714][268]LogModuleManager: Shutting down and abandoning module HTML5Networking (366)
+[2018.11.19-14.02.27:714][268]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (364)
+[2018.11.19-14.02.27:714][268]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (362)
+[2018.11.19-14.02.27:714][268]LogModuleManager: Shutting down and abandoning module BackChannel (360)
+[2018.11.19-14.02.27:714][268]LogModuleManager: Shutting down and abandoning module AppleVision (358)
+[2018.11.19-14.02.27:714][268]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (356)
+[2018.11.19-14.02.27:714][268]LogModuleManager: Shutting down and abandoning module AppleImageUtils (354)
+[2018.11.19-14.02.27:714][268]LogModuleManager: Shutting down and abandoning module AlembicImporter (352)
+[2018.11.19-14.02.27:714][268]LogModuleManager: Shutting down and abandoning module AlembicLibrary (351)
+[2018.11.19-14.02.27:714][268]LogModuleManager: Shutting down and abandoning module GeometryCache (350)
+[2018.11.19-14.02.27:714][268]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (349)
+[2018.11.19-14.02.27:714][268]LogModuleManager: Shutting down and abandoning module VariantManagerContent (344)
+[2018.11.19-14.02.27:714][268]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.11.19-14.02.27:714][268]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (340)
+[2018.11.19-14.02.27:714][268]LogModuleManager: Shutting down and abandoning module PluginBrowser (338)
+[2018.11.19-14.02.27:714][268]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (336)
+[2018.11.19-14.02.27:714][268]LogModuleManager: Shutting down and abandoning module PolygonModeling (334)
+[2018.11.19-14.02.27:714][268]LogModuleManager: Shutting down and abandoning module MeshEditor (332)
+[2018.11.19-14.02.27:714][268]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (330)
+[2018.11.19-14.02.27:714][268]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.11.19-14.02.27:714][268]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.11.19-14.02.27:714][268]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.11.19-14.02.27:714][268]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.11.19-14.02.27:714][268]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.11.19-14.02.27:714][268]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.11.19-14.02.27:714][268]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.11.19-14.02.27:714][268]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.11.19-14.02.27:714][268]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.11.19-14.02.27:714][268]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.11.19-14.02.27:714][268]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2018.11.19-14.02.27:714][268]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2018.11.19-14.02.27:714][268]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2018.11.19-14.02.27:715][268]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2018.11.19-14.02.27:715][268]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2018.11.19-14.02.27:715][268]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2018.11.19-14.02.27:715][268]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2018.11.19-14.02.27:715][268]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2018.11.19-14.02.27:715][268]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2018.11.19-14.02.27:715][268]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2018.11.19-14.02.27:715][268]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2018.11.19-14.02.27:715][268]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2018.11.19-14.02.27:715][268]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.11.19-14.02.27:715][268]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.11.19-14.02.27:816][268]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.11.19-14.02.27:917][268]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.11.19-14.02.27:917][268]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.11.19-14.02.27:917][268]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.11.19-14.02.27:917][268]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.11.19-14.02.27:917][268]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.11.19-14.02.27:917][268]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.11.19-14.02.27:917][268]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.11.19-14.02.27:917][268]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.11.19-14.02.27:917][268]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.11.19-14.02.27:917][268]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.11.19-14.02.27:917][268]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.11.19-14.02.27:918][268]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.11.19-14.02.27:918][268]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.11.19-14.02.27:918][268]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.11.19-14.02.27:918][268]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.11.19-14.02.27:918][268]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.11.19-14.02.27:918][268]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.11.19-14.02.27:918][268]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2018.11.19-14.02.27:918][268]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2018.11.19-14.02.27:919][268]LogModuleManager: Shutting down and abandoning module Media (241)
+[2018.11.19-14.02.27:925][268]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2018.11.19-14.02.27:925][268]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2018.11.19-14.02.27:925][268]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2018.11.19-14.02.27:925][268]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2018.11.19-14.02.27:925][268]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2018.11.19-14.02.27:925][268]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2018.11.19-14.02.27:925][268]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2018.11.19-14.02.27:925][268]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2018.11.19-14.02.27:925][268]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2018.11.19-14.02.27:925][268]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2018.11.19-14.02.27:925][268]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2018.11.19-14.02.27:925][268]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2018.11.19-14.02.27:925][268]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2018.11.19-14.02.27:925][268]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2018.11.19-14.02.27:925][268]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2018.11.19-14.02.27:925][268]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2018.11.19-14.02.27:925][268]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2018.11.19-14.02.27:925][268]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2018.11.19-14.02.27:925][268]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2018.11.19-14.02.27:925][268]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2018.11.19-14.02.27:926][268]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2018.11.19-14.02.27:926][268]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2018.11.19-14.02.27:927][268]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2018.11.19-14.02.27:927][268]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2018.11.19-14.02.27:927][268]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2018.11.19-14.02.27:927][268]LogModuleManager: Shutting down and abandoning module Core (186)
+[2018.11.19-14.02.27:927][268]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2018.11.19-14.02.27:927][268]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2018.11.19-14.02.27:927][268]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2018.11.19-14.02.27:927][268]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2018.11.19-14.02.27:927][268]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2018.11.19-14.02.27:927][268]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2018.11.19-14.02.27:927][268]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2018.11.19-14.02.27:927][268]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2018.11.19-14.02.27:927][268]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2018.11.19-14.02.27:927][268]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2018.11.19-14.02.27:927][268]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2018.11.19-14.02.27:927][268]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2018.11.19-14.02.28:349][268]LogDerivedDataCache: Shutdown
+[2018.11.19-14.02.28:349][268]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2018.11.19-14.02.28:415][268]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2018.11.19-14.02.28:415][268]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2018.11.19-14.02.28:415][268]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2018.11.19-14.02.28:415][268]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2018.11.19-14.02.28:415][268]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2018.11.19-14.02.28:415][268]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2018.11.19-14.02.28:415][268]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2018.11.19-14.02.28:415][268]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2018.11.19-14.02.28:415][268]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2018.11.19-14.02.28:415][268]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2018.11.19-14.02.28:416][268]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2018.11.19-14.02.28:416][268]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2018.11.19-14.02.28:416][268]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2018.11.19-14.02.28:416][268]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2018.11.19-14.02.28:416][268]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2018.11.19-14.02.28:416][268]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2018.11.19-14.02.28:416][268]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2018.11.19-14.02.28:417][268]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2018.11.19-14.02.28:417][268]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2018.11.19-14.02.28:417][268]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2018.11.19-14.02.28:417][268]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2018.11.19-14.02.28:417][268]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2018.11.19-14.02.28:417][268]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2018.11.19-14.02.28:417][268]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2018.11.19-14.02.28:418][268]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2018.11.19-14.02.28:418][268]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2018.11.19-14.02.28:421][268]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2018.11.19-14.02.28:422][268]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2018.11.19-14.02.28:422][268]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2018.11.19-14.02.28:422][268]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2018.11.19-14.02.28:422][268]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2018.11.19-14.02.28:422][268]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2018.11.19-14.02.28:422][268]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2018.11.19-14.02.28:422][268]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2018.11.19-14.02.28:422][268]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2018.11.19-14.02.28:422][268]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2018.11.19-14.02.28:422][268]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2018.11.19-14.02.28:422][268]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2018.11.19-14.02.28:422][268]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2018.11.19-14.02.28:422][268]LogHMD: Freeing OpenVRDLLHandle.
+[2018.11.19-14.02.28:422][268]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2018.11.19-14.02.28:422][268]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2018.11.19-14.02.28:422][268]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2018.11.19-14.02.28:422][268]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2018.11.19-14.02.28:422][268]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2018.11.19-14.02.28:422][268]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2018.11.19-14.02.28:422][268]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2018.11.19-14.02.28:431][268]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2018.11.19-14.02.28:431][268]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.11.19-14.02.28:431][268]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEBA8C374-41D7-E384-6EEA-9F863F7DB2DB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a67f9ba7481443ca7009da975ed91be2%7C7671aa82636c440498eafdd5d5eae101%7Cb399b28d-8ab2-4045-a358-b097b5aa1fa3&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.11.19-14.02.28:453][268]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2018.11.19-14.02.28:454][268]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2018.11.19-14.02.28:454][268]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2018.11.19-14.02.28:454][268]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2018.11.19-14.02.28:454][268]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2018.11.19-14.02.28:454][268]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2018.11.19-14.02.28:454][268]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2018.11.19-14.02.28:454][268]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2018.11.19-14.02.28:454][268]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.11.19-14.02.28:454][268]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2018.11.19-14.02.28:454][268]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2018.11.19-14.02.28:455][268]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.11.19-14.02.28:455][268]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.11.19-14.02.28:455][268]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.11.19-14.02.28:455][268]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.11.19-14.02.28:455][268]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.11.19-14.02.28:455][268]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.11.19-14.02.28:455][268]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.11.19-14.02.28:455][268]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.11.19-14.02.28:455][268]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.11.19-14.02.28:455][268]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.11.19-14.02.28:455][268]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.11.19-14.02.28:455][268]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.11.19-14.02.28:455][268]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.11.19-14.02.28:455][268]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.11.19-14.02.28:455][268]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.11.19-14.02.28:455][268]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.11.19-14.02.28:455][268]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.11.19-14.02.28:455][268]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.11.19-14.02.28:463][268]LogExit: Exiting.
+[2018.11.19-14.02.28:503][268]Log file closed, 11/19/18 15:02:28
